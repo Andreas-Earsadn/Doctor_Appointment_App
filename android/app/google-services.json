@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "730674531882",
+    "project_id": "andreashospital-4b105",
+    "storage_bucket": "andreashospital-4b105.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:730674531882:android:6eaccd04448357c00fbd53",
+        "android_client_info": {
+          "package_name": "com.andreashospital.konsultasi"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "730674531882-n4oqgm1kptspeuorc0l4r4po8rr4ma1u.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCjTG1u5mOYDYDgrJaFGv3ihB1IhaQUFf4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "730674531882-n4oqgm1kptspeuorc0l4r4po8rr4ma1u.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
