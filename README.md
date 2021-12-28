@@ -1,15 +1,15 @@
-![Poster](*assets/Medic.ly_poster1.png?raw=true "")
+
 
 # Penjadwalan Konsultasi - Doctor Appointment App
 
 This is UI model of the Online Doctor Appointment booking App. It is connected to firebase for authentication and data storage.
 
 <p align="center">
-<a href="https://*hits.seeyoufarm.com"><img src=""/></a>
+<a href=""><img src=""/></a>
 
 <h2>Project UI/UX case study portfolio</h2>
 
-[Behance Link :arrow_upper_right:](https://*www.behance.net/gallery/118230811/Doctor-Appointment-App)
+[Behance Link :arrow_upper_right:]()
 <br/>
 <br/>
 
