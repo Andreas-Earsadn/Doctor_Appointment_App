@@ -1,4 +1,4 @@
-![Poster](assets/Medic.ly_poster1.png?raw=true "Medic.ly")
+![Poster](*assets/Medic.ly_poster1.png?raw=true "")
 
 # Penjadwalan Konsultasi - Doctor Appointment App
 
