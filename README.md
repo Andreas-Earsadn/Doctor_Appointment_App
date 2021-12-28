@@ -2,7 +2,7 @@
 
 # Penjadwalan Konsultasi - Doctor Appointment App
 
-This is UI model of the Online Doctor Appointment booking App. It is connected to firebase for authentication and data storage.
+Doctor Appointment App is a mobile application based on Android that developed for managing appointment-booking and hospital queue. It is designed using Flutter framework and Dart. It is developed using Object-Oriented Software Engineering (OOSE)  technique.
 
 <p align="center">
 <a href=""><img src=""/></a>
